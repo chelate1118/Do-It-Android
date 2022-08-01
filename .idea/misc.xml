@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.4785" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.6270833333333333" />
         <entry key="app/src/main/res/layout/baseline.xml" value="0.6260416666666667" />
+        <entry key="app/src/main/res/layout/frame.xml" value="0.25" />
         <entry key="app/src/main/res/layout/gravity.xml" value="0.6260416666666667" />
         <entry key="app/src/main/res/layout/padding.xml" value="0.6260416666666667" />
+        <entry key="app/src/main/res/layout/table.xml" value="0.6260416666666667" />
         <entry key="app/src/main/res/layout/weight.xml" value="0.39539473684210524" />
       </map>
     </option>
